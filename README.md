@@ -5,6 +5,6 @@
 # Description
 Flower code 
 
-Responsive HTML --> css --> style.css
+Responsive HTML CSS
 
 Thanks 
